@@ -4,12 +4,12 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 175px;
     border-radius: 10px;
 }
 
 .card {
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
